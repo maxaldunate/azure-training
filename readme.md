@@ -2,8 +2,8 @@
 
 ## Courses
 
-* [ACG - Introduction to Azure](#acg-introduction-to-azure/readme.md)
-* [edX - Microsoft Azure Identity](#edx-microsoft-azure-identity/readme.md)
+* [ACG - Introduction to Azure](acg-introduction-to-azure/readme.md)
+* [edX - Microsoft Azure Identity](edx-microsoft-azure-identity/readme.md)
 
 ## Azure Resources
 
