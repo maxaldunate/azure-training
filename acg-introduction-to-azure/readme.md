@@ -19,7 +19,8 @@
 ![](Screenshot_381_2018-07-23_19-55-17.png)
 ![](Screenshot_382_2018-07-24_17-01-24.png)
 ![](Screenshot_382_2018-07-24_17-16-46.png)
-![](#putting-it-all-together)
+
+* [Sample Architectures - 'putting it all together'](#putting-it-all-together)
 
 ## Chapter 1 - Introduction & Chapter 2 - Azure Foundations
 <p align="right"><a href="#top">Top</a></p>
