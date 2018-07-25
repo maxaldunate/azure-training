@@ -3,6 +3,24 @@
 # Introduction to Azure - A Cloud Guru 
 [Link](https://acloud.guru/course/intro-to-azure/dashboard)
 
+* [Details](#chapter-1---introduction--chapter-2---azure-foundations)
+
+## Summary Content
+
+![](Screenshot_347.png)
+![](Screenshot_362.png)
+![](Screenshot_372.png)
+![](Screenshot_380.png)
+![](Screenshot_381_2018-07-23_19-17-35.png)
+![](Screenshot_381_2018-07-23_19-25-12.png)
+![](Screenshot_381_2018-07-23_19-30-48.png)
+![](Screenshot_381_2018-07-23_19-40-00.png)
+![](Screenshot_381_2018-07-23_19-47-43.png)
+![](Screenshot_381_2018-07-23_19-55-17.png)
+![](Screenshot_382_2018-07-24_17-01-24.png)
+![](Screenshot_382_2018-07-24_17-16-46.png)
+![](#putting-it-all-together)
+
 ## Chapter 1 - Introduction & Chapter 2 - Azure Foundations
 <p align="right"><a href="#top">Top</a></p>
 
