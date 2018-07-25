@@ -133,11 +133,46 @@
 ### Security and Identity
 <p align="right"><a href="#top">Top</a></p>
 
+[](Screenshot_382_2018-07-24_16-50-40.png)
+[](Screenshot_382_2018-07-24_16-54-40.png)
+[](Screenshot_382_2018-07-24_16-56-14.png)
+[](Screenshot_382_2018-07-24_16-57-35.png)
+[](Screenshot_382_2018-07-24_16-59-08.png)
+[](Screenshot_382_2018-07-24_17-01-14.png)
+[](Screenshot_382_2018-07-24_17-01-24.png)
+
 ### Monitoring and Management
 <p align="right"><a href="#top">Top</a></p>
+
+[](Screenshot_382_2018-07-24_17-05-44.png)
+[](Screenshot_382_2018-07-24_17-08-13.png)
+[](Screenshot_382_2018-07-24_17-09-18.png)
+[](Screenshot_382_2018-07-24_17-10-01.png)
+[](Screenshot_382_2018-07-24_17-11-57.png)
+[](Screenshot_382_2018-07-24_17-15-18.png)
+[](Screenshot_382_2018-07-24_17-16-39.png)
+[](Screenshot_382_2018-07-24_17-16-46.png)
 
 ## Chapter 4 - Summary
 <p align="right"><a href="#top">Top</a></p>
 
 ### Putting It All Together
+
+[](Screenshot_382_2018-07-24_17-17-23.png)
+[](Screenshot_382_2018-07-24_17-25-57.png)
+[](Screenshot_382_2018-07-24_17-27-17.png)
+[](Screenshot_382_2018-07-24_17-28-55.png)
+[](Screenshot_382_2018-07-24_17-31-27.png)
+[](Screenshot_382_2018-07-24_17-33-19.png)
+[](Screenshot_382_2018-07-24_17-34-32.png)
+[](Screenshot_382_2018-07-24_17-50-32.png)
+[](Screenshot_382_2018-07-24_17-57-04.png)
+[](Screenshot_382_2018-07-24_18-00-52.png)
+
 ### Where to Next
+
+[](Screenshot_382_2018-07-24_18-01-19.png)
+[](Screenshot_382_2018-07-24_18-01-42.png)
+[](Screenshot_382_2018-07-24_18-01-55.png)
+
+The End
