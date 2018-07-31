@@ -17,3 +17,7 @@
   https://www.microsoftpressstore.com
 * Azure solutions  
   https://azure.microsoft.com/en-us/solutions/
+
+## MD docs
+* [Azure for AWS Professionals](md-docs/azure-for-aws-professionals.md)
+* [Understand Azure identity solutions](md-docs/understand-azure-identity-solutions.md)
